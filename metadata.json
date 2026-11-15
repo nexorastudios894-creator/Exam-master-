@@ -1,0 +1,6 @@
+{
+  "name": "Exam Master Nigeria",
+  "description": "Nigerian exam preparation platform for JAMB UTME, WAEC, NECO, and Post-UTME candidates with past questions, timed CBT practice, study analytics, school directory, scholarships, and admission news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
